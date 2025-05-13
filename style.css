@@ -1,0 +1,8 @@
+body{
+    background-color: rgb(248, 166, 166);
+    color: aliceblue;
+}
+
+.read { color: green; font-weight: bold; }
+
+.not-read { color: red; font-weight: bold; }
